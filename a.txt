@@ -3,5 +3,9 @@ hello_2
 hello_3
 hello_4
 hello_6
+<<<<<<< HEAD
 ~~~~~~~~~~
 123123
+=======
+231312312
+>>>>>>> cfff01d7107863dba43df8ced3798c149ff30bcf
